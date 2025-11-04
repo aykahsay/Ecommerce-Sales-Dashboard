@@ -5,11 +5,7 @@
 ---
 
 ## 📸 Dashboard Preview
-*(Insert your Power BI dashboard screenshot below)*  
-
-> 📍 **Suggested filename:** `images/dashboard_overview.png`
-
-![E-Commerce Dashboard Preview](images/dashboard_overview.png)
+<img width="883" height="658" alt="image" src="https://github.com/user-attachments/assets/bbce3a49-6f98-4465-9455-9c0f072d93b7" />
 
 ---
 
@@ -137,8 +133,9 @@ GROUP BY category_name;
 *(Insert your Power BI model relationship diagram below)*
 
 > 📍 **Suggested filename:** `images/data_model.png`
+![Model Design](https://github.com/user-attachments/assets/37ca4e13-5252-4249-a56c-4f7d37018c34)
 
-![Data Model Design](images/data_model.png)
+
 
 The model follows a **Star Schema**, ensuring efficient querying and DAX calculations.
 
