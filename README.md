@@ -5,7 +5,8 @@
 ---
 
 ## 📸 Dashboard Preview
-<img width="883" height="658" alt="image" src="https://github.com/user-attachments/assets/bbce3a49-6f98-4465-9455-9c0f072d93b7" />
+
+![Dashboard](https://github.com/user-attachments/assets/095c3e8f-10c4-4e3c-84bc-a756bbc103f1)
 
 ---
 
