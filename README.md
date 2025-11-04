@@ -221,26 +221,3 @@ us_state_long_lat_codes (1) ───▶ (∞) ecommerce_data (∞) ◀───
 * Build **real-time dashboards** using DirectQuery.
 
 ---
-
-## 👤 Author
-
-**Ambachow Kahsay**
-🎓 *Data Science & Analytics Student – United States International University–Africa*
-💼 *Passionate about Business Intelligence, Data Visualization, and Predictive Analytics*
-🌍 *Driven to turn data into actionable business insights.*
-
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-🔗 **LinkedIn:** [Add your LinkedIn link here]
-💻 **GitHub:** [Add your GitHub link here]
-
----
-
-## 🖼️ Additional Images (Optional)
-
-You can include additional visuals such as:
-
-* `images/dashboard_kpis.png` → For KPI card section
-* `images/sales_by_region.png` → For regional sales breakdown
-* `images/top_products.png` → For Top/Bottom product charts
-
----
