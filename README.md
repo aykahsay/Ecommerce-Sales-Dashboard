@@ -90,6 +90,7 @@ ADDCOLUMNS(
 ---
 
 ## ⚙️ ETL Process
+<img width="1256" height="752" alt="image" src="https://github.com/user-attachments/assets/28bb8375-4fcb-4dcf-9d82-0d10482f0a7e" />
 
 ### 🔹 Extract
 
