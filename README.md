@@ -130,13 +130,7 @@ GROUP BY category_name;
 ---
 
 ## 🔗 Data Model Design
-
-*(Insert your Power BI model relationship diagram below)*
-
-> 📍 **Suggested filename:** `images/data_model.png`
 ![Model Design](https://github.com/user-attachments/assets/37ca4e13-5252-4249-a56c-4f7d37018c34)
-
-
 
 The model follows a **Star Schema**, ensuring efficient querying and DAX calculations.
 
